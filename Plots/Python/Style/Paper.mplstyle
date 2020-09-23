@@ -17,3 +17,4 @@ ytick.minor.size     : 7
 ytick.major.size     : 12
 ytick.major.pad      : 7
 legend.fontsize      : x-large
+legend.frameon       : False

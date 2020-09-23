@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "DayaStyleRoot.C": "cpp"
-    }
+    },
+    "python.pythonPath": "/usr/bin/python3"
 }
