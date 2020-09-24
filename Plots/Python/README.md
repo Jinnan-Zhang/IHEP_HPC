@@ -22,7 +22,7 @@ $ cd ~/.local
 $ mkdir src
 $ wget https://bootstrap.pypa.io/get-pip.py
 $ python get-pip.py --user
-$ export PATH=~./local/bin:$PATH
+$ export PATH=~/.local/bin:$PATH
 $ pip install --user matplotlib numpy scipy
 ```
 * The reason you need to use the commod  ```ln -s``` is afs has limited 500 MB space, it's better to put the data somewhere else.
