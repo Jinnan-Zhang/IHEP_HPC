@@ -1,9 +1,11 @@
+figure.figsize: 16,10
+font.serif: Times New Roman
 axes.titlesize : 24
-axes.labelsize : 20
-lines.linewidth : 3
+axes.labelsize : 24
+lines.linewidth : 2
 lines.markersize : 10
-xtick.labelsize : x-large
-xtick.top : True
+xtick.labelsize : 22
+#xtick.top : True
 xtick.minor.visible : True
 xtick.direction      : in
 xtick.major.size     : 12
@@ -12,9 +14,12 @@ xtick.major.pad      : 7
 ytick.right : True
 ytick.minor.visible  : True
 ytick.direction      : in
-ytick.labelsize : x-large
+ytick.labelsize : 22
 ytick.minor.size     : 7
 ytick.major.size     : 12
 ytick.major.pad      : 7
-legend.fontsize      : x-large
+legend.fontsize      : 24
+legend.title_fontsize: 24
 legend.frameon       : False
+axes.formatter.limits: -2, 6
+axes.formatter.use_mathtext: True
